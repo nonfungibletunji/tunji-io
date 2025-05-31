@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tunji.io/sitemap.xml

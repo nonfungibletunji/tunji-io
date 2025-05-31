@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+    <loc>https://tunji.io/index.html</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tunji.io/404.html</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tunji.io/notes.html</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tunji.io/projects.html</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tunji.io//articles/how-i-set-up-a-new-mac.html</loc>
+    <lastmod>2025-04-25T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tunji.io//articles/my-personal-setup.html</loc>
+    <lastmod>2025-04-11T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tunji.io//articles/writing-a-command-line-tool-in-swift.html</loc>
+    <lastmod>2025-04-29T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+</urlset>
