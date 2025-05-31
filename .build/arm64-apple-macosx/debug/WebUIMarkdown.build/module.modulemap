@@ -1,0 +1,4 @@
+module WebUIMarkdown {
+    header "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/WebUIMarkdown-Swift.h"
+    requires objc
+}

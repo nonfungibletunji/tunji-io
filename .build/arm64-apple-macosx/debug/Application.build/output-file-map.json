@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/master.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Application/Application.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Application.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Application.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Application~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Application.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Application/CloudFunctions.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/CloudFunctions.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/CloudFunctions.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/CloudFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/CloudFunctions.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Application/Pages/Home.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Home.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Home.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Home~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Home.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Application/Pages/Missing.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Missing.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Missing.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Missing~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Missing.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Application/Pages/Notes.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Notes.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Notes.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Notes~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Notes.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Application/Pages/Projects.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Projects.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Projects.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Projects~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Application.build/Projects.swiftdeps"
+  }
+}

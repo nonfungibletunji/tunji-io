@@ -1,0 +1,64 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-cmark",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swiftlang/swift-cmark.git",
+          "name" : "swift-cmark"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "b022b08312decdc46585e0b3440d97f6f22ef703",
+            "version" : "0.6.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-cmark"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-markdown",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-markdown",
+          "name" : "swift-markdown"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "ea79e83c8744d2b50b0dc2d5bbd1e857e1253bf9",
+            "version" : "0.6.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-markdown"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "web-ui",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/maclong9/web-ui",
+          "name" : "web-ui"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "17e5e8f53d8e115497981225d1a60f4e5f21e071",
+            "version" : "1.1.5"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "web-ui"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

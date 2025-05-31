@@ -1,0 +1,4 @@
+module Shared {
+    header "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Shared-Swift.h"
+    requires objc
+}

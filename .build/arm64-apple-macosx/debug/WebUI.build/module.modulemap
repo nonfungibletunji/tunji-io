@@ -1,0 +1,4 @@
+module WebUI {
+    header "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUI.build/WebUI-Swift.h"
+    requires objc
+}

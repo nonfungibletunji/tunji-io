@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/master.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Shared/Components/Card.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Card.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Card.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Card~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Card.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Shared/Components/Icon.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Icon.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Icon.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Icon~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Icon.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Shared/Components/Layout.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Layout.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Layout.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Layout~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Layout.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Shared/Components/Styles.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Styles.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Styles.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Styles~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Styles.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Shared/Services/ArticlesService.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/ArticlesService.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/ArticlesService.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/ArticlesService~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/ArticlesService.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/Sources/Shared/Services/Metadata.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Metadata.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Metadata.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Metadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/Shared.build/Metadata.swiftdeps"
+  }
+}

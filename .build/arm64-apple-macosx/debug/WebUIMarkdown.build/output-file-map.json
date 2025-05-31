@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/master.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/checkouts/web-ui/Sources/WebUIMarkdown/HTMLRenderer.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/HTMLRenderer.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/HTMLRenderer.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/HTMLRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/HTMLRenderer.swiftdeps"
+  },
+  "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/checkouts/web-ui/Sources/WebUIMarkdown/WebUIMarkdown.swift": {
+    "dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/WebUIMarkdown.d",
+    "object": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/WebUIMarkdown.swift.o",
+    "swiftmodule": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/WebUIMarkdown~partial.swiftmodule",
+    "swift-dependencies": "/Users/stunjiturner/Downloads/code-review-abubakr/tunji-io/.build/arm64-apple-macosx/debug/WebUIMarkdown.build/WebUIMarkdown.swiftdeps"
+  }
+}
